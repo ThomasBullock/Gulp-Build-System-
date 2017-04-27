@@ -2,7 +2,29 @@ body {
 
 	font-family: 'Lato', sans-serif;
 
+
 }
+
+// .list {
+// 	list-style-type: none;
+// 	width: 300px;
+// 	padding: 0;
+// 	margin: auto;
+
+			
+// 	@include element('item') {
+// 		@include rounded-box();
+// 		margin-bottom: 0;
+// 		color: blue;
+
+		
+// 			@include modifier('last') {
+// 				background: red;
+// 				@include scale(1.2, 0 0, 1s); 
+// 			}
+// 	}
+// }
+
 
 /* ================================= 
   MOBILE
