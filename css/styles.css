@@ -432,6 +432,12 @@ body {
 a {
   text-decoration: none; }
 
+ul {
+  padding: 0; }
+
+li {
+  list-style: none; }
+
 /* ================================= 
   Typography Styles
 ==================================== */
@@ -448,9 +454,26 @@ h4,
 h5,
 h6 {
   font-family: "Montserrat", sans-serif;
-  font-size: 1.333em;
   line-height: 1.2;
   margin: 0 0 0.75em; }
+
+h1 {
+  font-size: 3.05176em; }
+
+h2 {
+  font-size: 2.44141em; }
+
+h3 {
+  font-size: 1.95312em; }
+
+h4 {
+  font-size: 1.5625em; }
+
+h5 {
+  font-size: 1.25em; }
+
+h6 {
+  font-size: 1.25em; }
 
 p {
   margin: 0 0 0.75em; }

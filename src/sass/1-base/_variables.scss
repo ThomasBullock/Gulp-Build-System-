@@ -19,6 +19,11 @@ $phone: new-breakpoint(min-width 320px max-width 767px 12);
 $base-font-family: $Lato;
 $heading-font-family: $Montserrat;
 
+$modularscale: (
+  base: 1em,
+  ratio: 1.25
+);
+
 // Font Sizes
 $base-font-size: 1em;
 
